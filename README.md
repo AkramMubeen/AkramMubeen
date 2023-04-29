@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkramMubeen
-- 👀 I’m interested in data science with programming languages like Python,SQL and R.
-- 🌱 I’m currently learning data science.
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently a Datacamp certified Professional Data scientist and a Google certified Data Analyst.Plus learning more to become better.
 - 📫 How to reach me ? email at amubeen457@gmail.com
 
 <!---
